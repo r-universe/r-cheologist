@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "flippant"]
+	path = flippant
+	url = https://github.com/r-cheologist/flippant
+[submodule "multipanelfigure"]
+	path = multipanelfigure
+	url = https://github.com/r-cheologist/multipanelfigure
